@@ -40,4 +40,6 @@ Includes browser-based tools and lightweight utilities.
 
 ## Scope
 
-This list focuses on **practical input device diagnostics** rather than performance benchmarking.
+This list focuses on practical input device diagnostics  
+(mouse, keyboard, and audio), rather than full hardware testing suites.
+
