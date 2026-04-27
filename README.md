@@ -18,6 +18,10 @@ Includes browser-based tools and lightweight utilities.
 
 ## Keyboard Testing
 
+- **KeyboardTester.click - N-Key Rollover Test**  
+  Online keyboard rollover and ghosting test for validating simultaneous key registration in the browser. Open source, no install.  
+  https://keyboardtester.click/n-key-rollover-test.php
+
 - **GearTest – Keyboard Test**  
   Browser-based keyboard test for verifying key registration and detecting ghosting.  
   https://www.geartest.online/keyboard-test/
